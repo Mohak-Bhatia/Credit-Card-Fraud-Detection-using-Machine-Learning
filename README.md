@@ -7,7 +7,9 @@ This project builds a machine learning pipeline to detect fraudulent credit card
 Dataset Source: Public credit card fraud dataset (e.g., Kaggle – anonymized PCA features, Time, Amount, Class).
 
 Target variable:
-Class = 0 → Legitimate transactionClass = 1 → Fraudulent transactionHighly imbalanced dataset with very few fraud cases compared to normal transactions.
+Class = 0 → Legitimate transaction
+Class = 1 → Fraudulent transaction
+Highly imbalanced dataset with very few fraud cases compared to normal transactions.
 
 Key Steps->
 
